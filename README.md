@@ -23,4 +23,4 @@ To get started with this code, simply download or clone the repository and open 
 
 ## Credits
 
-This sample website was created by Shayesteh as a practice project. If you have any questions or feedback, please feel free to contact me at [schaayesteh@gmail.com].
+This sample website was created by Shayesteh as a practice project. If you have any questions or feedback, please feel free to contact me at schaayesteh@gmail.com.
