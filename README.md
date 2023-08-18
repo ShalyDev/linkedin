@@ -2,7 +2,12 @@
 
 This is a sample website that was created using HTML, CSS, and a little bit of JavaScript. The website is similar to LinkedIn.
 
-## Live Deployed Version
+## Demo
+
+<img width="1552" alt="Screen Shot of the Main Page" src="https://github.com/ShalyDev/linkedin/assets/108570881/9035dbbf-8ac5-4b87-aa32-c74df700be9a">
+
+<img width="1552" alt="Screen Shot of the Profile Page" src="https://github.com/ShalyDev/linkedin/assets/108570881/263fc7c5-5cdf-4292-8a45-650427d7f68c">
+
 
 You can view the deployed version of this code at https://linkedin-sample.netlify.app/.
 
